@@ -1,0 +1,20 @@
+# PDF
+
+Repositorio para subir ODC en PDF y procesarlas.
+
+## Cómo subir tus PDFs (rápido)
+1. Abre este enlace directo: https://github.com/rlopezFabricato/PDF/upload/main/pdf
+2. Arrastra uno o varios archivos .pdf o haz clic en "choose your files".
+3. Escribe un mensaje de commit (ej.: "Lote 1") y pulsa "Commit changes".
+
+> Nota: el enlace anterior sube a la carpeta `pdf/`. Si prefieres subir a la raíz del repo, usa: https://github.com/rlopezFabricato/PDF/upload/main
+
+## Límites y privacidad
+- Límite de tamaño por archivo: 100 MB (si alguno supera esto, te ayudo a activar Git LFS).
+- Si los documentos son sensibles, cambia el repo a privado en Settings > Change visibility.
+
+## Próximo paso
+Cuando subas 1–2 PDFs, comparte aquí el enlace directo a uno. Con eso te devuelvo:
+- Layout de CSV enriquecido (columnas y tipos),
+- Diccionario de datos,
+- Reglas de extracción (anclas/regex) y validaciones.
